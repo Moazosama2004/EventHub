@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: "assets/images/auth-logo.png"
+
+  android_12: 
+    image: "assets/images/auth-logo.png"
+    color: "#ffffff"
+
+  web: false
